@@ -32,7 +32,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< HEAD
 "@babel/code-frame@npm:^7.16.0":
   version: 7.16.0
   resolution: "@babel/code-frame@npm:7.16.0"
@@ -42,8 +41,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> main
 "@babel/compat-data@npm:^7.12.1, @babel/compat-data@npm:^7.13.0, @babel/compat-data@npm:^7.13.8":
   version: 7.13.8
   resolution: "@babel/compat-data@npm:7.13.8"
@@ -110,7 +107,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< HEAD
 "@babel/generator@npm:^7.16.5":
   version: 7.16.5
   resolution: "@babel/generator@npm:7.16.5"
@@ -122,8 +118,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> main
 "@babel/helper-annotate-as-pure@npm:^7.10.4, @babel/helper-annotate-as-pure@npm:^7.12.13":
   version: 7.12.13
   resolution: "@babel/helper-annotate-as-pure@npm:7.12.13"
@@ -133,7 +127,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< HEAD
 "@babel/helper-annotate-as-pure@npm:^7.16.0":
   version: 7.16.0
   resolution: "@babel/helper-annotate-as-pure@npm:7.16.0"
@@ -143,8 +136,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> main
 "@babel/helper-builder-binary-assignment-operator-visitor@npm:^7.12.13":
   version: 7.12.13
   resolution: "@babel/helper-builder-binary-assignment-operator-visitor@npm:7.12.13"
@@ -214,7 +205,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< HEAD
 "@babel/helper-environment-visitor@npm:^7.16.5":
   version: 7.16.5
   resolution: "@babel/helper-environment-visitor@npm:7.16.5"
@@ -224,8 +214,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> main
 "@babel/helper-explode-assignable-expression@npm:^7.12.13":
   version: 7.13.0
   resolution: "@babel/helper-explode-assignable-expression@npm:7.13.0"
@@ -246,7 +234,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< HEAD
 "@babel/helper-function-name@npm:^7.16.0":
   version: 7.16.0
   resolution: "@babel/helper-function-name@npm:7.16.0"
@@ -258,8 +245,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> main
 "@babel/helper-get-function-arity@npm:^7.12.13":
   version: 7.12.13
   resolution: "@babel/helper-get-function-arity@npm:7.12.13"
@@ -269,7 +254,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< HEAD
 "@babel/helper-get-function-arity@npm:^7.16.0":
   version: 7.16.0
   resolution: "@babel/helper-get-function-arity@npm:7.16.0"
@@ -279,8 +263,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> main
 "@babel/helper-hoist-variables@npm:^7.13.0":
   version: 7.13.0
   resolution: "@babel/helper-hoist-variables@npm:7.13.0"
@@ -291,7 +273,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< HEAD
 "@babel/helper-hoist-variables@npm:^7.16.0":
   version: 7.16.0
   resolution: "@babel/helper-hoist-variables@npm:7.16.0"
@@ -301,8 +282,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> main
 "@babel/helper-member-expression-to-functions@npm:^7.13.0":
   version: 7.13.0
   resolution: "@babel/helper-member-expression-to-functions@npm:7.13.0"
