@@ -4,13 +4,16 @@ import { MemoryRouter } from 'react-router-dom';
 import userEvent from '@testing-library/user-event';
 
 describe('Header', () => {
-  test('"How it works" link points to the correct page', () => {
+  test('links points to the correct page', () => {
     render(
       <MemoryRouter>
         <App />
       </MemoryRouter>,
     );
-    const link = screen.getByRole('link', { name: /how it works/i });
+    const link = screen.getByRole('link', { name: /search/i });
     userEvent.click(link);
+    expect(
+      screen.getByRole('heading', { name: /search/i }),
+    ).toBeInTheDocument();
   });
 });
