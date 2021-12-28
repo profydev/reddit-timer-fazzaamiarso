@@ -32,6 +32,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "@babel/code-frame@npm:^7.16.0":
   version: 7.16.0
   resolution: "@babel/code-frame@npm:7.16.0"
@@ -41,6 +42,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> main
 "@babel/compat-data@npm:^7.12.1, @babel/compat-data@npm:^7.13.0, @babel/compat-data@npm:^7.13.8":
   version: 7.13.8
   resolution: "@babel/compat-data@npm:7.13.8"
@@ -107,6 +110,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "@babel/generator@npm:^7.16.5":
   version: 7.16.5
   resolution: "@babel/generator@npm:7.16.5"
@@ -118,6 +122,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> main
 "@babel/helper-annotate-as-pure@npm:^7.10.4, @babel/helper-annotate-as-pure@npm:^7.12.13":
   version: 7.12.13
   resolution: "@babel/helper-annotate-as-pure@npm:7.12.13"
@@ -127,6 +133,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "@babel/helper-annotate-as-pure@npm:^7.16.0":
   version: 7.16.0
   resolution: "@babel/helper-annotate-as-pure@npm:7.16.0"
@@ -136,6 +143,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> main
 "@babel/helper-builder-binary-assignment-operator-visitor@npm:^7.12.13":
   version: 7.12.13
   resolution: "@babel/helper-builder-binary-assignment-operator-visitor@npm:7.12.13"
@@ -205,6 +214,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "@babel/helper-environment-visitor@npm:^7.16.5":
   version: 7.16.5
   resolution: "@babel/helper-environment-visitor@npm:7.16.5"
@@ -214,6 +224,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> main
 "@babel/helper-explode-assignable-expression@npm:^7.12.13":
   version: 7.13.0
   resolution: "@babel/helper-explode-assignable-expression@npm:7.13.0"
@@ -234,6 +246,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "@babel/helper-function-name@npm:^7.16.0":
   version: 7.16.0
   resolution: "@babel/helper-function-name@npm:7.16.0"
@@ -245,6 +258,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> main
 "@babel/helper-get-function-arity@npm:^7.12.13":
   version: 7.12.13
   resolution: "@babel/helper-get-function-arity@npm:7.12.13"
@@ -254,6 +269,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "@babel/helper-get-function-arity@npm:^7.16.0":
   version: 7.16.0
   resolution: "@babel/helper-get-function-arity@npm:7.16.0"
@@ -263,6 +279,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> main
 "@babel/helper-hoist-variables@npm:^7.13.0":
   version: 7.13.0
   resolution: "@babel/helper-hoist-variables@npm:7.13.0"
@@ -273,6 +291,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "@babel/helper-hoist-variables@npm:^7.16.0":
   version: 7.16.0
   resolution: "@babel/helper-hoist-variables@npm:7.16.0"
@@ -282,6 +301,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> main
 "@babel/helper-member-expression-to-functions@npm:^7.13.0":
   version: 7.13.0
   resolution: "@babel/helper-member-expression-to-functions@npm:7.13.0"
@@ -300,6 +321,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "@babel/helper-module-imports@npm:^7.16.0":
   version: 7.16.0
   resolution: "@babel/helper-module-imports@npm:7.16.0"
@@ -309,6 +331,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> main
 "@babel/helper-module-transforms@npm:^7.12.1, @babel/helper-module-transforms@npm:^7.13.0":
   version: 7.13.0
   resolution: "@babel/helper-module-transforms@npm:7.13.0"
@@ -392,6 +416,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "@babel/helper-split-export-declaration@npm:^7.16.0":
   version: 7.16.0
   resolution: "@babel/helper-split-export-declaration@npm:7.16.0"
@@ -401,6 +426,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> main
 "@babel/helper-validator-identifier@npm:^7.12.11":
   version: 7.12.11
   resolution: "@babel/helper-validator-identifier@npm:7.12.11"
@@ -456,6 +483,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "@babel/highlight@npm:^7.16.0":
   version: 7.16.0
   resolution: "@babel/highlight@npm:7.16.0"
@@ -467,6 +495,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> main
 "@babel/parser@npm:^7.1.0, @babel/parser@npm:^7.12.13, @babel/parser@npm:^7.12.3, @babel/parser@npm:^7.13.0, @babel/parser@npm:^7.13.10, @babel/parser@npm:^7.7.0":
   version: 7.13.10
   resolution: "@babel/parser@npm:7.13.10"
@@ -476,6 +506,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "@babel/parser@npm:^7.16.0, @babel/parser@npm:^7.16.5":
   version: 7.16.6
   resolution: "@babel/parser@npm:7.16.6"
@@ -485,6 +516,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> main
 "@babel/plugin-proposal-async-generator-functions@npm:^7.12.1, @babel/plugin-proposal-async-generator-functions@npm:^7.13.8":
   version: 7.13.8
   resolution: "@babel/plugin-proposal-async-generator-functions@npm:7.13.8"
@@ -1675,6 +1708,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "@babel/template@npm:^7.16.0":
   version: 7.16.0
   resolution: "@babel/template@npm:7.16.0"
@@ -1686,6 +1720,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> main
 "@babel/traverse@npm:^7.1.0, @babel/traverse@npm:^7.12.1, @babel/traverse@npm:^7.13.0, @babel/traverse@npm:^7.7.0":
   version: 7.13.0
   resolution: "@babel/traverse@npm:7.13.0"
@@ -1703,6 +1739,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "@babel/traverse@npm:^7.4.5":
   version: 7.16.5
   resolution: "@babel/traverse@npm:7.16.5"
@@ -1721,6 +1758,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> main
 "@babel/types@npm:^7.0.0, @babel/types@npm:^7.12.1, @babel/types@npm:^7.12.13, @babel/types@npm:^7.12.17, @babel/types@npm:^7.12.6, @babel/types@npm:^7.13.0, @babel/types@npm:^7.3.0, @babel/types@npm:^7.3.3, @babel/types@npm:^7.4.4, @babel/types@npm:^7.7.0":
   version: 7.13.0
   resolution: "@babel/types@npm:7.13.0"
@@ -1732,7 +1771,11 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "@babel/types@npm:^7.16.0, @babel/types@npm:^7.8.3":
+=======
+"@babel/types@npm:^7.8.3":
+>>>>>>> main
   version: 7.16.0
   resolution: "@babel/types@npm:7.16.0"
   dependencies:
@@ -1825,6 +1868,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "@emotion/is-prop-valid@npm:^0.8.8":
   version: 0.8.8
   resolution: "@emotion/is-prop-valid@npm:0.8.8"
@@ -1855,6 +1899,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> main
 "@eslint/eslintrc@npm:^0.4.0":
   version: 0.4.0
   resolution: "@eslint/eslintrc@npm:0.4.0"
@@ -3923,6 +3969,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "babel-plugin-styled-components@npm:>= 1.12.0":
   version: 2.0.2
   resolution: "babel-plugin-styled-components@npm:2.0.2"
@@ -3944,6 +3991,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> main
 "babel-plugin-syntax-object-rest-spread@npm:^6.8.0":
   version: 6.13.0
   resolution: "babel-plugin-syntax-object-rest-spread@npm:6.13.0"
@@ -4591,6 +4640,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "camelize@npm:^1.0.0":
   version: 1.0.0
   resolution: "camelize@npm:1.0.0"
@@ -4598,6 +4648,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> main
 "caniuse-api@npm:^3.0.0":
   version: 3.0.0
   resolution: "caniuse-api@npm:3.0.0"
@@ -5401,6 +5453,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "css-color-keywords@npm:^1.0.0":
   version: 1.0.0
   resolution: "css-color-keywords@npm:1.0.0"
@@ -5408,6 +5461,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> main
 "css-color-names@npm:0.0.4, css-color-names@npm:^0.0.4":
   version: 0.0.4
   resolution: "css-color-names@npm:0.0.4"
@@ -5489,6 +5544,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "css-to-react-native@npm:^3.0.0":
   version: 3.0.0
   resolution: "css-to-react-native@npm:3.0.0"
@@ -5500,6 +5556,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> main
 "css-tree@npm:1.0.0-alpha.37":
   version: 1.0.0-alpha.37
   resolution: "css-tree@npm:1.0.0-alpha.37"
@@ -8070,6 +8128,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "hoist-non-react-statics@npm:^3.0.0":
   version: 3.3.2
   resolution: "hoist-non-react-statics@npm:3.3.2"
@@ -8079,6 +8138,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> main
 "hoopy@npm:^0.1.4":
   version: 0.1.4
   resolution: "hoopy@npm:0.1.4"
@@ -13066,7 +13127,11 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "react-is@npm:^16.7.0, react-is@npm:^16.8.1":
+=======
+"react-is@npm:^16.8.1":
+>>>>>>> main
   version: 16.13.1
   resolution: "react-is@npm:16.13.1"
   checksum: f7a19ac3496de32ca9ae12aa030f00f14a3d45374f1ceca0af707c831b2a6098ef0d6bdae51bd437b0a306d7f01d4677fcc8de7c0d331eb47ad0f46130e53c5f
@@ -13319,7 +13384,10 @@ __metadata:
     react-dom: ^17.0.1
     react-router-dom: ^6.2.1
     react-scripts: ^4.0.1
+<<<<<<< HEAD
     styled-components: ^5.3.3
+=======
+>>>>>>> main
   languageName: unknown
   linkType: soft
 
@@ -14192,6 +14260,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "shallowequal@npm:^1.1.0":
   version: 1.1.0
   resolution: "shallowequal@npm:1.1.0"
@@ -14199,6 +14268,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> main
 "shebang-command@npm:^1.2.0":
   version: 1.2.0
   resolution: "shebang-command@npm:1.2.0"
@@ -14933,6 +15004,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "styled-components@npm:^5.3.3":
   version: 5.3.3
   resolution: "styled-components@npm:5.3.3"
@@ -14955,6 +15027,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> main
 "stylehacks@npm:^4.0.0":
   version: 4.0.3
   resolution: "stylehacks@npm:4.0.3"
@@ -14973,7 +15047,11 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "supports-color@npm:^5.3.0, supports-color@npm:^5.5.0":
+=======
+"supports-color@npm:^5.3.0":
+>>>>>>> main
   version: 5.5.0
   resolution: "supports-color@npm:5.5.0"
   dependencies:
